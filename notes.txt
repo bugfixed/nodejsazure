@@ -1,0 +1,4 @@
+--Emitting events
+The main idea behind Socket.IO is that we can send and receive any events you want, with any data we want.
+Any objects that can be encoded as JSON will do, and binary data is supported too.
+so in this we are going to emmit 'chat message' event in html script section
